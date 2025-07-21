@@ -1,6 +1,6 @@
 ## Python Projects
 
-# Snake Water Gun Game 🐍💧🔫
+# Snake Water Gun Game (Mini Project) 🐍💧🔫
 
 A simple command-line Snake Water Gun game written in Python!
 
